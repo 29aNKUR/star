@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-      <StarRating limit={5}/>
+      <StarRating limit={5} rating={2}/>
       </div>
   
     </>
